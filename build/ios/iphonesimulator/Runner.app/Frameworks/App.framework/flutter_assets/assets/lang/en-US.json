@@ -1,0 +1,26 @@
+{
+    "home": {
+        "appBar": "English",
+        "name": "Teacher Name",
+        "cn": "Course Name",
+        "dis": "Learning with Flutter to build the cross-platfrom mobile app",
+        "like": "Likes",
+        "comment": "Comments",
+        "share": "Shares",
+        "view": "Views",
+        "home": "Home",
+        "feature": "Feature",
+        "friend": "Friend",
+        "function": "Function",
+        "contact": "Contact",
+        "check": "Check Me",
+        "language": "Language",
+        "khmer": "Khmer",
+        "english": "English",
+        "history": "History",
+        "score": "Score",
+        "fqa": "FQA",
+        "inviteF": "Invite Friend",
+        "feedback": "Feedbacks"
+    }
+}
